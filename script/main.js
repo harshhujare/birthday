@@ -88,9 +88,9 @@ const animationTimeline = () => {
       opacity: 0,
       y: 10
       // scale: 0.7
-    })
+    }) 
     .to(
-      ".three",
+      ".three", 
       0.7,
       {
         opacity: 0,
